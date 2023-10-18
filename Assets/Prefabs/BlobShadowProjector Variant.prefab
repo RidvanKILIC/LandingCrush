@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4071140256010247438
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 6915702392124559808, guid: 29ff8c34e42e44840a8d7c14f8f98cd3, type: 3}
+      propertyPath: m_blurSize
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6915702392124559808, guid: 29ff8c34e42e44840a8d7c14f8f98cd3, type: 3}
+      propertyPath: m_textureWidth
+      value: 16
+      objectReference: {fileID: 0}
+    - target: {fileID: 6915702392124559808, guid: 29ff8c34e42e44840a8d7c14f8f98cd3, type: 3}
+      propertyPath: m_multiSampling
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6915702392124559808, guid: 29ff8c34e42e44840a8d7c14f8f98cd3, type: 3}
+      propertyPath: m_textureHeight
+      value: 16
+      objectReference: {fileID: 0}
+    - target: {fileID: 6915702392124559809, guid: 29ff8c34e42e44840a8d7c14f8f98cd3, type: 3}
+      propertyPath: m_Material
+      value: 
+      objectReference: {fileID: 2100000, guid: 05c36bd30e3d84ef9bbf0d6fefd5d84b, type: 2}
+    - target: {fileID: 6915702392124559809, guid: 29ff8c34e42e44840a8d7c14f8f98cd3, type: 3}
+      propertyPath: m_FieldOfView
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 6915702392124559809, guid: 29ff8c34e42e44840a8d7c14f8f98cd3, type: 3}
+      propertyPath: m_FarClipPlane
+      value: 1000
+      objectReference: {fileID: 0}
+    - target: {fileID: 6915702392124559809, guid: 29ff8c34e42e44840a8d7c14f8f98cd3, type: 3}
+      propertyPath: m_OrthographicSize
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 6915702392124559809, guid: 29ff8c34e42e44840a8d7c14f8f98cd3, type: 3}
+      propertyPath: m_IgnoreLayers.m_Bits
+      value: 512
+      objectReference: {fileID: 0}
+    - target: {fileID: 6915702392124559810, guid: 29ff8c34e42e44840a8d7c14f8f98cd3, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6915702392124559810, guid: 29ff8c34e42e44840a8d7c14f8f98cd3, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6915702392124559810, guid: 29ff8c34e42e44840a8d7c14f8f98cd3, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.037
+      objectReference: {fileID: 0}
+    - target: {fileID: 6915702392124559810, guid: 29ff8c34e42e44840a8d7c14f8f98cd3, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6915702392124559810, guid: 29ff8c34e42e44840a8d7c14f8f98cd3, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 6915702392124559810, guid: 29ff8c34e42e44840a8d7c14f8f98cd3, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 6915702392124559810, guid: 29ff8c34e42e44840a8d7c14f8f98cd3, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6915702392124559810, guid: 29ff8c34e42e44840a8d7c14f8f98cd3, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6915702392124559810, guid: 29ff8c34e42e44840a8d7c14f8f98cd3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 6915702392124559810, guid: 29ff8c34e42e44840a8d7c14f8f98cd3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6915702392124559810, guid: 29ff8c34e42e44840a8d7c14f8f98cd3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6915702392124559813, guid: 29ff8c34e42e44840a8d7c14f8f98cd3, type: 3}
+      propertyPath: m_Name
+      value: BlobShadowProjector
+      objectReference: {fileID: 0}
+    - target: {fileID: 6915702392124559814, guid: 29ff8c34e42e44840a8d7c14f8f98cd3, type: 3}
+      propertyPath: m_target
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6915702392124559814, guid: 29ff8c34e42e44840a8d7c14f8f98cd3, type: 3}
+      propertyPath: m_layerMask.m_Bits
+      value: 383
+      objectReference: {fileID: 0}
+    - target: {fileID: 6915702392124559814, guid: 29ff8c34e42e44840a8d7c14f8f98cd3, type: 3}
+      propertyPath: m_textureAlignment
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6915702392124559814, guid: 29ff8c34e42e44840a8d7c14f8f98cd3, type: 3}
+      propertyPath: m_autoDetectHierarchyChanges
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6915702392124559815, guid: 29ff8c34e42e44840a8d7c14f8f98cd3, type: 3}
+      propertyPath: field of view
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 6915702392124559815, guid: 29ff8c34e42e44840a8d7c14f8f98cd3, type: 3}
+      propertyPath: far clip plane
+      value: 1000
+      objectReference: {fileID: 0}
+    - target: {fileID: 6915702392124559815, guid: 29ff8c34e42e44840a8d7c14f8f98cd3, type: 3}
+      propertyPath: m_TargetTexture
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6915702392124559815, guid: 29ff8c34e42e44840a8d7c14f8f98cd3, type: 3}
+      propertyPath: orthographic size
+      value: 30
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 29ff8c34e42e44840a8d7c14f8f98cd3, type: 3}

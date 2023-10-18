@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: faa11ec82e9746928e211e7f096812ca, type: 3}
+  m_Name: Settings
+  m_EditorClassIdentifier: 
+  gameAnalyticsIosGameKey: 
+  gameAnalyticsIosSecretKey: 
+  gameAnalyticsAndroidGameKey: b89966ff5bbe998bae665e5bda4e0691
+  gameAnalyticsAndroidSecretKey: 8c6429dc50d4dc4eac1f514b8ae4324eff8e5228
+  facebookAppId: 911765850044935
+  facebookClientToken: 20b49795b852cfae1d76aba6cf4c8ab9
+  adjustIOSToken: 
+  adjustAndroidToken: 2jhr04jl6log
+  EditorIdfa: 722093f6-9c9a-4cea-9cfe-fb75f4dbeb28
+  UseRemoteConfig: 0
+  UseVoodooAnalytics: 1
+  companyName: Wobble
+  privacyPolicyURL: https://kodlamaatolyesi.com/privacy-policy/
+  developerContactEmail: gameswobble@gmail.com
